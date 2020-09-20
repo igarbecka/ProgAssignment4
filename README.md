@@ -12,4 +12,13 @@ The R script run_analysis.R completes the following steps:
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-## 
+##Initial Data
+
+features.txt - includes the descriptions for measured features 
+X_train.txt - includes the measurements of the features in train set
+X_test.txt - includes the measurements of the features in test set
+subject_train.txt - subject for each measurement from the train set
+subject_test.txt - subject for each measurement from the test set
+y_train.txt - activity (from 1 to 6) for each measurement from the train set
+y_test.txt - activity (from 1 to 6) for each measurement from the test set
+
